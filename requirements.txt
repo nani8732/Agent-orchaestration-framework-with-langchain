@@ -9,3 +9,5 @@ uvicorn
 streamlit
 duckduckgo-search
 faiss-cpu
+ddg
+
